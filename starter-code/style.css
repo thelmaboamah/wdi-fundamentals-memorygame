@@ -25,9 +25,14 @@ h2 {
 	width: 150px;
 	border: 1px solid black;
 	background: yellow;
-	border-radius: 10px;
+	border-radius: 22px;
 	float: left;
 	margin: 8%;
+}
+
+img {
+	width: 100%;
+	height: 100%;
 }
 
 .name {
